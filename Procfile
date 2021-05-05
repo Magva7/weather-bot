@@ -1,1 +1,1 @@
-worker: python main.py
+web: python magva-weather.py

@@ -1,2 +1,4 @@
 PyQt5==5.15.1
 PyQt5-sip==12.8.1
+python-telegram-bot==13.4.1
+requests==2.25.1
